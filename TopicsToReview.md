@@ -18,6 +18,9 @@
 
 ## Lecture 4.3 - Subtyping and generics
 
+#### Covariant
+
+
 #### Upper Bounds
 
 [S <: IntSet] - IntSet is an upper bound of the type parameter S
