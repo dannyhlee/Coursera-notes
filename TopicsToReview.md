@@ -1,4 +1,4 @@
-## Lecture 3.1 - class heirarchies
+## Lecture 3.1 - class hierarchies
 
 #### Dynamic Binding
 #### Dynamic method dispatch
